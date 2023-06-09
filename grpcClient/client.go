@@ -3,8 +3,8 @@ package grpcClient
 import (
 	"context"
 	"fmt"
-	"github.com/ranjbar-dev/tron-wallet/enums"
-	"github.com/ranjbar-dev/tron-wallet/grpcClient/proto/api"
+	"github.com/zx9597446/tron-wallet/enums"
+	"github.com/zx9597446/tron-wallet/grpcClient/proto/api"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 	"google.golang.org/grpc/metadata"

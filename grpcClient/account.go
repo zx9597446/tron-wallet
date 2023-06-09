@@ -3,9 +3,9 @@ package grpcClient
 import (
 	"bytes"
 	"fmt"
-	"github.com/ranjbar-dev/tron-wallet/grpcClient/proto/api"
-	"github.com/ranjbar-dev/tron-wallet/grpcClient/proto/core"
-	"github.com/ranjbar-dev/tron-wallet/util"
+	"github.com/zx9597446/tron-wallet/grpcClient/proto/api"
+	"github.com/zx9597446/tron-wallet/grpcClient/proto/core"
+	"github.com/zx9597446/tron-wallet/util"
 )
 
 func (g *GrpcClient) GetAccount(addr string) (*core.Account, error) {

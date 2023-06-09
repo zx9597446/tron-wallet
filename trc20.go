@@ -2,9 +2,9 @@ package tronWallet
 
 import (
 	"fmt"
-	"github.com/ranjbar-dev/tron-wallet/enums"
-	"github.com/ranjbar-dev/tron-wallet/grpcClient"
-	"github.com/ranjbar-dev/tron-wallet/util"
+	"github.com/zx9597446/tron-wallet/enums"
+	"github.com/zx9597446/tron-wallet/grpcClient"
+	"github.com/zx9597446/tron-wallet/util"
 	"math/big"
 )
 

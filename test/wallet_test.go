@@ -1,7 +1,7 @@
 package test
 
 import (
-	tronWallet "github.com/ranjbar-dev/tron-wallet"
+	tronWallet "github.com/zx9597446/tron-wallet"
 	"testing"
 )
 
